@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Engineering in Transportation and Highway Engineering, Tongji University, September 2022 - June 2025 (expected)
+* Master's Joint Program in Intelligent Agents and Computer Vision, Shanghai Jiao Tong University, September 2023 - June 2025 (expected)
+* Bachelor of Minor in Economics, Peking University, September 2020 - June 2023
+* Bachelor of Engineering in Safety Engineering, China University of Mining and Technology, Beijing, September 2018 - June 2022
+
+
 
 Work experience
 ======
